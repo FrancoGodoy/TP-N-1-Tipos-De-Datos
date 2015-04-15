@@ -27,7 +27,7 @@ int main ()
 	cin >> achar;
 	cout << "Introduzca la letra inicial de su apellido: ";
 	cin >> bchar;
-	cout << "Sus iniciales serian: " << achar + bchar << endl << endl << endl;
+	cout << "Sus iniciales serian: " << achar << bchar << endl << endl << endl;
 		
 	
 	cout << "Tipo de datos String" << endl << endl;

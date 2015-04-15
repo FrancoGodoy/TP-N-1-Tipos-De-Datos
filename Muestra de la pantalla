@@ -1,0 +1,40 @@
+Tipo de datos Int
+
+Ingrese un numero:
+Ingrese otro numero:
+La suma de ambos numeros es:
+La resta de ambos numeros es:
+La multiplicacion de ambos numeros es:
+La division de ambos numeros es:
+
+
+Tipo de datos Char:
+
+Introduzca la letra inicial de su nombre:
+Introduzca la letra inicial de su apellido:
+Sus iniciales serian:
+
+
+Tipo de datos String:
+
+Ingrese su nombre:
+Ingrese su apellido:
+Bienvenido al mundo,
+
+
+Tipo de datos Bool:
+
+Introduzca un valor A:
+Introduzca un valor B:
+Como A<B entonces mostrara 1 en caso de verdadero y 0 en caso de falso
+El resultado es:
+
+
+Tipo de datos Double
+
+Introduzca un numero con coma:
+Introduzca otro numero con coma:
+La suma de ambos numeros es:
+La resta de ambos numeros es:
+La multiplicacion de ambos numeros es:
+La division de ambos numeros es:
